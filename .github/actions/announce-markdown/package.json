@@ -1,0 +1,10 @@
+{
+  "name": "announce-markdown",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "@actions/github": "^5.1.1",
+    "@octokit/rest": "^20.0.1"
+  }
+}
