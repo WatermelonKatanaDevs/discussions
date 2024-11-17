@@ -7,6 +7,9 @@ on:
 jobs:
   announce-to-markdown:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -24,4 +27,4 @@ jobs:
         id: announce
         uses: ./.github/actions/announce-markdown
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
