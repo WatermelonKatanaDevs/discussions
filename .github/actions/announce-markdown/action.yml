@@ -1,0 +1,9 @@
+name: "Announce to Markdown"
+description: "Converts an announcement discussion to a Markdown file"
+inputs:
+  token:
+    description: "GitHub Token"
+    required: true
+runs:
+  using: "node16"
+  main: "index.js"
