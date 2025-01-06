@@ -1,22 +1,42 @@
-# 🍉🗡️ WatermelonKatana: State of Development - 11/17/24
+# WatermelonKatana State of Development – January 6, 2025
+
+# 🌟 WatermelonKatana Update – January 6, 2025
 
 ## 🌟 Preface
 
 Hey everyone! 👋 Colack here with your latest WatermelonKatana (WK) update! This newsletter will hopefully become a regular feature, either bi-weekly or monthly, where we’ll share all the exciting things we’re working on and upcoming features. So, let's dive in and see what's fresh! 🍉✨
 
-### 🚨 Fix Announcements
+## 🚨 Updates and Announcements
 
-We’ve made some exciting improvements to our announcement system! 🎉 It’s now more robust and features a Markdown-based rendering context, replacing the basic HTML page. Thanks to our awesome friends at [GitHub](https://github.com/), we’ve implemented this using actions and workflows! 🚀 This should make updates more dynamic and easier to follow.
+### 🎉 Domain is Back!
 
-### 🛠️ TurboWarp Updates
+We’re thrilled to announce that we’ve regained our domain! Development is resuming in full swing after a well-deserved Christmas break. 🌟
 
-Improved Overrides are live! 🔧 Ever wondered why some variables can be overridden on CDO but not on TurboWarp? Well, we’ve found that specific registry variables, when declared in the global scope using just var, prevent listeners from updating them. This bug, caused by the CDO interpreter, has now been fixed!
+### ❤️ Support Us
 
-P.S. The matching isn’t 100% perfect yet, as regex has its quirks when it comes to language parsing. But as long as your code is clean and concise, you shouldn’t run into issues. 🧑‍💻
+We’ve launched Buy Me a Coffee and Patreon pages to make it easier for our community to support the platform. Your contributions directly fuel our development efforts!
 
-### 🐞 BugTesting
+- [Buy us a Coffee](https://buymeacoffee.com/watermelonkatana) ☕
+- [Support us on Patreon](https://patreon.com/watermelonkatana) 🌟
 
-We’ve got some major updates coming to WatermelonKatana in the next couple of weeks, and we could really use your help to bug test! 🔍 If you spot any pesky bugs, don’t hesitate to report them in our bug-reporting channel on Discord or on the Issues/Discussions tabs. As a special thank you, anyone who reports a bug before our next big release will receive a BetaBugTester badge! 🎖️
+## 🛠️ What We're Working On
+
+Here’s a sneak peek at what’s currently in development:
+
+- Flash Support via Ruffle or Similar Solutions
+Bringing back Flash functionality for compatibility with older projects.
+
+- Improved Website Security and Development Interfaces
+Enhancing security measures and creating a better development server and user interface.
+
+- Administrator and Moderator Panels
+Introducing robust tools for site admins and moderators to better manage the community.
+
+- Forum Rework and Reformatting
+A fresh redesign and organization of the forums for easier navigation and engagement.
+
+- Unified UI Layout
+Developing a modular, consistent UI layout for future updates, making the platform more intuitive and user-friendly.
 
 ## 💬 Closing Statement
 
