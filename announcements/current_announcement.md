@@ -1,5 +1,3 @@
-# WatermelonKatana State of Development – January 6, 2025
-
 # 🌟 WatermelonKatana Update – January 6, 2025
 
 ## 🌟 Preface
