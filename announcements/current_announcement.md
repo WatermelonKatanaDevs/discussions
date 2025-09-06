@@ -1,55 +1,57 @@
-# 🌟 WatermelonKatana Update – March 13, 2025
+# WatermelonKatana Update: September 6th, 2025
 
-## 🌟 Preface
+# WatermelonKatana Update: September 6th, 2025
 
-Hello Everyone! Varrience here, I will be giving the announcement in Colacks place.
-Unfortunately development is coming to a slowdown as of late. Now that mostly all the bugs are squashed. We encourage you to expore our site since everything should be stable.
+## Intro
+Greetings fellow WK users I hope you have been enjoying our services and community content so far! It's been a while since our last update but a lot has changed. Please read our changelog for further details
 
-## 🚨 Updates and Announcements
+## Updates and Announcements
 
-### 🤔 Content and Updates Going Forward
-Since Colacks disengagement of the project *(mainly personal life issues and will be taking a indefinite hiatus until further notice)* and Dragon being busy most of the time. I have been maintaining the project for about a few months now. Ensuring that stuff gets patched and QOL updates happen; so there's less user fustration. For now at least I will also be cutting back on new features and contributions to WatermelonKatana. I am currently pursuing another project that I currently have more direction and motivation to build. That being said fixes and critical bugs will be fixed! Just less features are being focused on right now.
+## New Member
 
-### 🎉 Changelog
-- Added Flash Support
-- Added some more featured progress through a poll
-- Added more secure server side spam measures when submitting content
-- Added a way for you to access your profile from the home screen after login
-- Added page caching system for prolonged searches or browsing topics
-- Added JS independent hosted games on other platforms (a guide might be made soon)
-- Added Fullscreen support for our games
-- Fixed Specific Screenport bugs in Applab Turbowarp
-- Fixed Khan's fixed host link to be more dynamic
-- Fixed deprication issue with mongoose's delete method no longer removing content
-- Fixed showing all current projects posted on the users profile page including hidden ones!
-- Fixed notifications (this was a frontend and backend nightmare)
-- Fixed main content page load times (before it would take a few seconds to load everything now it's ~1 second)
-- Fixed page history I.E. going foward or backwards to previous pages
-- Fixed sorting by Active on forum posts
-- Fixed a recent sorting issue where it would default on inital page loads
-- Fixed a bunch of minimal UI issues not being properly scaled to size
-- Moved the Announcements button to [faq](https://watermelonkatana.com/faq) where all documents can be found about the website like our TOS or how to properly port your CDO game to run on Turbowarp
+Its an honor to welcome [-gxbriel](https://watermelonkatana.com/user/-gxbriel) to the project. He specializes in frontend development and has published a few games to the platform already
 
-### ❤️ Support Us
+### Changelog
 
-You can still support us with Buy Me a Coffee and Patreon pages!
+- Added notifications bar on the homepage
+- Added dismiss button to notifications now you should be able to get rid of your notifications more easily
+- Added random project button to homepage
+- Added dashboard for all users to easily access local project history and much more
+- Added emoji picker
+- Added alternate light theme for users that prefer it
+- Added better focus for game frames (you now physically have to scroll to see additional info about the game)
+- Added color schema for both light and dark for the emoji picker
+- Added preferential site color schema
+- Changed link hovering color palette
+- Changed how content is served for faster load times
+- Changed truncated special responses for homepages for optimal loads
+- Changed how topics and games are served for faster loads and was further improved by caching the items of a search once
+- Changed how views are counted on projects going forward to prevent view farming
+- Changed where replay and fullscreen options for projects are loaded
+- Changed the astetics of how projects dynamically display content and stats
+- Fixed follow viewing on profiles (and a bunch of other small issues with it)
+- Fixed default sorting topics in the forum
+- Fixed the page indexer to show mature content for mature users
+- Fixed Applabs Viewport in Turbowarp
+- Fixed image styling in applab (specifically oversized images that automatically scaled to a div box)
+- Fixed UI issue where profile followers and following Elements could both be showing and overlap with each other
+- Fixed another cookie bug for publishing games, that would prevent further posts
+- Fixed more server side sorting preventing projects showing up predictably
+- Fixed Profile Update Issues
+- Fixed style bug for publish button
+- Fixed style and recently viewed order of projects in the dashboard
+- Fixed emoji picker issues such as failing to load or insert emojis properly in the textbox
+- Fixed improper dismissal of notifications
+- Fixed a implicit security bug on turbowarp projects
+- Fixed a bunch of inital implementation bugs of the new project displays
+- Fixed more button problems from failing
 
-- [Buy us a Coffee](https://buymeacoffee.com/watermelonkatana) ☕
-- [Support us on Patreon](https://patreon.com/watermelonkatana) 🌟
+## What We're Working On
 
-## 🛠️ What We're Working On
+Since development is still slowly moving along it's best to keep our expectations low for now and be upfront with our users. There are no big current plans for the project at this time. We will however continue to improve and maintain it in the meantime.
 
-Here's the updated list of planned features after January's last announcement:
+## Closing Statement
 
-- Improved Website Security and Development Interfaces
-Enhancing security measures and creating a better development server and user interface.
+That’s all folks! We at WatermelonKatana appreciate appreciate your patience and enjoyment of our site. Our donations are always open for those who wish to support us. You can [Buy us a Coffee](https://buymeacoffee.com/watermelonkatana) or [Support us on Patreon](https://patreon.com/watermelonkatana). We appreciate all of our users for making this site possible. 
 
-- Administrator and Moderator Panels
-Introducing robust tools for site admins and moderators to better manage the community.
-
-- Unified UI Layout
-Developing a modular, consistent UI layout for future updates, making the platform more intuitive and user-friendly.
-
-## 💬 Closing Statement
-
-That’s all folks! We at WatermelonKatana appreciate appreciate your patience and enjoyment of our site. Stay tuned for future updates, and thank you for being part of the WK community!
+Thank you for visiting Watermelonkatana!
