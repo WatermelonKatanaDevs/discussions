@@ -1,7 +1,5 @@
 # WatermelonKatana Update: September 6th, 2025
 
-# WatermelonKatana Update: September 6th, 2025
-
 ## Intro
 Greetings fellow WK users I hope you have been enjoying our services and community content so far! It's been a while since our last update but a lot has changed. Please read our changelog for further details
 
