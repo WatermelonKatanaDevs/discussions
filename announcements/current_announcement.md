@@ -17,6 +17,7 @@ Since development is still slowly moving along it's best to keep our expectation
 - Migrating the old pfps from profiles to the new path we use
 - Updating ease of access for admins to edit the database
 - Updating old view counts to the new way we count views
+
 Again there are no expected times when these become implemented so if you want a feature implemented feel free to [contribute](https://github.com/orgs/WatermelonKatanaDevs/repositories) to our site
 
 ## Closing Statement
